@@ -2,7 +2,7 @@
     	"name": "Tokio Marine Claim Submission",
         "short_name": "Claim Submission App",
         "description": "Web Application for Claim Submission",
-        "start_url": "http://localhost:3000/index.html",
+        "start_url": "https://stevenmedlinx.github.io/PWAClaimSubmissionApp/",
         "theme_color": "#317EFB",
         "background_color": "#317EFB",
         "display": "minimal-ui",
